@@ -1,0 +1,7 @@
+Another erlang EC2 client. My first OTP app so may be incorrect. Uses the Version 2 signature for AWS.
+
+Requires both erlang-format (find it on git hub) and erlsom.
+
+This is the first push. Only working API calls are run_instance[s], describe_instance[s] and terminate_instance[s]. 
+
+I'm going to generate the rest later and add them.
